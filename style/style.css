@@ -3,3 +3,9 @@
     border: 0;
     box-sizing: border-box;
 }
+
+body {
+    background-color: #1F3A5F;
+    color: #FFFFFF;
+    font-size: 1.1rem;
+}
